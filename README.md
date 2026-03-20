@@ -82,3 +82,4 @@ npx expo install expo-sqlite
 
 Para voltar ao modo online, basta configurar `EXPO_PUBLIC_SUPABASE_URL`
 e `EXPO_PUBLIC_SUPABASE_ANON_KEY` no `.env` e reiniciar o app.
+
